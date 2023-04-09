@@ -1,0 +1,10 @@
+msdev/.vs/
+msdev/Debug/
+msdev/opencvtraining/Debug/
+msdev/opencvtraining/opencvtraining.vcxproj.user
+msdev/zzzDist/Debug/
+opencv/build_opencv/
+opencv/install/
+opencv/opencv/
+opencv/opencv_contrib/
+
